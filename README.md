@@ -10,8 +10,8 @@ UTILIZANDO A API DO GITHUB PARA OBTENÇÃO DE INFORMAÇÃO DOS USUÁRIOS
 
 5 - Endpoints:
 
-#Lista as informações do usuário desejado https://api.github.com/users/<username> 
+#Lista as informações do usuário desejado https://api.github.com/users/"username" 
 
-#Gera o arquivo .txt com as informações do usuário desejado http://localhost:5000/github_user/<username>
+#Gera o arquivo .txt com as informações do usuário desejado http://localhost:5000/github_user/"username"
 
 Obrigada e espero que tenha curtido o projeto!
