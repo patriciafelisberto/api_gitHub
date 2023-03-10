@@ -1,0 +1,17 @@
+Nome do usuário: patriciafelisberto
+URL do perfil: https://github.com/patriciafelisberto
+Número de repositórios públicos: 10
+Número de seguidores: 10
+Número de pessoas que segue: 15
+
+Repositórios:
+CalculadoraJs: https://github.com/patriciafelisberto/CalculadoraJs
+comunidade_ti: https://github.com/patriciafelisberto/comunidade_ti
+e_commerce: https://github.com/patriciafelisberto/e_commerce
+e_commerce_games: https://github.com/patriciafelisberto/e_commerce_games
+GuessTheNumber: https://github.com/patriciafelisberto/GuessTheNumber
+MySQL_Controle_Estoque: https://github.com/patriciafelisberto/MySQL_Controle_Estoque
+patriciafelisberto.github.io: https://github.com/patriciafelisberto/patriciafelisberto.github.io
+TipCalculator: https://github.com/patriciafelisberto/TipCalculator
+Todo_list_Flask: https://github.com/patriciafelisberto/Todo_list_Flask
+webScraper: https://github.com/patriciafelisberto/webScraper
